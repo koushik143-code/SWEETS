@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SWEETS/static/css/main.19b52c88.css",
+    "main.js": "/SWEETS/static/js/main.8f6f9e83.js",
+    "static/media/foodfunda-banner.jpg": "/SWEETS/static/media/foodfunda-banner.446932456cbe57c70594.jpg",
+    "index.html": "/SWEETS/index.html",
+    "main.19b52c88.css.map": "/SWEETS/static/css/main.19b52c88.css.map",
+    "main.8f6f9e83.js.map": "/SWEETS/static/js/main.8f6f9e83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19b52c88.css",
+    "static/js/main.8f6f9e83.js"
+  ]
+}
